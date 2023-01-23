@@ -9,7 +9,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-dom-server": "0.0.5",
-    "react-http-request": "^1.0.4",
+    "react-http-request": "^2.0.0",
     "react-moment": "^0.7.0",
     "react-redux": "^5.0.7",
     "react-router-dom": "^4.2.2",
